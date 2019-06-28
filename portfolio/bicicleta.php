@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Nicolás, Valerga, portfolio, 3d, modelado, animación, caja, de, vulcano">
 <meta name="description" content="La Caja de Vulcano es el portfolio personal de modelado y animación 3d de Nicolás Valerga">
 <meta name="Author" content="La Caja de Vulcano - Nicolás Valerga">
