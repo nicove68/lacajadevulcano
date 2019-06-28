@@ -1,0 +1,284 @@
+body {
+	margin:0px;
+	padding:0px;
+	font-family: Tahoma, sans-serif, Arial;
+	background-image:url(../images/bg_central.png);
+	background-repeat:repeat;
+	color:#FFF;
+}
+
+#cont_intro {
+	width:100%;
+	height:494px;
+	background-image:url(../images/bg_intro.png);
+	background-repeat:repeat-x;
+}
+
+#logo_intro{
+width:289px;
+height:548px;
+text-align:center;
+margin:0 auto;
+padding-top:158px;
+}
+
+#logo_intro a:hover{
+	border:none;
+}
+
+#cont_header {
+	width:100%;
+	height:215px;
+	background-image:url(../images/bg_header.png);
+	background-repeat:repeat-x;	
+}
+
+#header {
+	height: 215px;
+	width: 800px;
+	margin:0 auto;
+}
+
+#logo {
+	width:193px;
+	height:215px;
+	float:left;
+	background-image:url(../images/la_caja_de_vulcano.png);
+	background-position:bottom;
+	background-repeat:no-repeat;
+}
+
+#logo a {
+	width:193px;
+	height:215px;
+	display:block;
+}
+
+#cont_marquesina {
+	width:600px;
+	height:136px;
+	float:right;
+	margin-top:77px;
+	border:1px solid #c9c9c9;
+	background-color:#000;
+}
+
+#marquesina {
+ width: 600px;
+ height: 136px;
+ overflow: hidden;
+}
+
+#cont_central {
+	width:800px;
+	border:1px solid #c9c9c9;
+	background-color:#000;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+h1 {
+	color:#f08b1d;
+	font-size:20px;
+	line-height:30px;
+	font-weight:100;
+	width:695px;
+	background-image:url(../images/bg_titulos.png);
+	background-repeat:repeat-y;
+	margin:0 auto;
+	margin-top:30px;
+	padding-left:10px;
+}
+
+p {
+	color:#c9c9c9;
+	font-size:15px;
+	line-height:18px;
+	width:695px;
+	margin:0 auto;
+	padding-bottom:5px;
+	padding-left:10px;
+	padding-top:10px;
+}
+
+.cont_thumb_home {
+	width:660px;
+	_width:680px;
+	height:150px;
+	margin:0px auto;
+	margin-top:10px;
+	
+}
+
+.thumb_home {
+	width:155px;
+	height:150px;
+	border:2px solid #f08b1d;
+	float:left;
+	margin-left:5px;
+	background-color:#1f1f1f;
+}
+
+#cont_footer {
+	width:100%;
+	height:150px;
+	background-image:url(../images/bg_footer.png);
+	background-repeat:repeat-x;
+}
+
+
+#footer {
+	width:800px;
+	height:50px;
+	border:1px solid #c9c9c9;
+	background-color:#000;
+	margin:0 auto;
+}
+
+.pfooter {
+	font-size:13px;
+	margin:0 auto;
+	margin-top:6px;
+	padding:0px;
+}
+
+#vulcano {
+	width: 60px;
+	height: 60px;
+	background-image:url(../images/vulcano.png);
+	background-repeat:no-repeat;
+	margin:0 auto;
+	margin-top:25px;
+}
+
+.hintstyle {
+    position:absolute;
+    background-color:#1f1f1f;
+    border:1px solid #f08b1d;
+    padding:2px;
+    color:#F08B1D;
+    font-family:Tahoma, sans-serif, Arial;
+    font-size:13px;
+    text-decoration:none;
+}
+
+#cont_video {
+	width:700px;
+	margin:0 auto;
+}
+
+#marco_video {
+	background-color:#1f1f1f;
+	width:500px;
+	height:400px;
+	text-align:center;
+	border:1px solid #f08b1d;
+	padding:5px;
+	float:left;
+}
+
+#caps_video {
+	background-color:#1f1f1f;
+	width:180px;
+	height:410px;
+	text-align:center;
+	float:right;
+}
+
+.clear {
+	clear:both;
+}
+
+.marco_caps {
+	background-color:#1f1f1f;
+	text-align:center;
+	border:1px solid #f08b1d;
+	padding:5px;
+	width:690px;
+	margin:0 auto;
+	margin-bottom:20px;
+}
+
+a {
+	color:#c9c9c9;
+	font-size:15px;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+	color:#f08b1d;
+}
+
+#cont_formulario {
+	width:400px;
+	background-color:#000;
+	margin-top:15px;
+	margin-bottom:15px;
+	margin-left:160px;
+}
+
+#cont_formulario p {
+	float:left;
+	display:inline;
+	width:90px;
+	margin:0px;
+	padding:0px;
+	padding-top:5px;
+}
+
+#cont_formulario input {
+	width:300px;
+	border:1px solid #f08b1d;
+	background-color:#1f1f1f;
+	font-size:15px;
+	font-family: Tahoma, sans-serif, Arial;
+	color:#f08b1d;
+	float:left;
+}
+
+#cont_formulario textarea {
+	width:300px;
+	height:170px;
+	border:1px solid #f08b1d;
+	background-color:#1f1f1f;
+	font-size:15px;
+	font-family: Tahoma, sans-serif, Arial;
+	color:#f08b1d;
+	float:left;
+}
+
+#cont_formulario img {
+	background-color:#1f1f1f;
+	margin-bottom:5px;
+	float:right;
+}
+
+#cont_formulario #submit {
+	background-color:#1f1f1f;
+	font-size:15px;
+	font-family: Tahoma, sans-serif, Arial;
+	width:100px;
+	height:30px;
+	float:right;
+	margin-right:110px;
+	color:#FFF;
+	border:1px solid #f08b1d;
+	cursor:pointer;
+}
+
+#reload_captcha {
+	cursor:pointer;
+}
+
+.error_form {
+	border:1px solid #f08b1d;
+	background-color:#1f1f1f;
+	font-size:15px;
+	font-family: Tahoma, sans-serif, Arial;
+	color:#f08b1d;	
+	width:400px;
+	margin-top:20px;
+	margin-bottom:30px;
+}
