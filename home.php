@@ -1,16 +1,16 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<meta name="keywords" content="Nicolás, Valerga, portfolio, 3d, modelado, animación, caja, de, vulcano">
-<meta name="description" content="La Caja de Vulcano es el portfolio personal de modelado y animación 3d de Nicolás Valerga">
-<meta name="Author" content="La Caja de Vulcano - Nicolás Valerga">
-<meta name="Language" content="Spanish">
-<title>La caja de Vulcano</title>
-<link href="css/estilos.css" rel="stylesheet" type="text/css" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta name="keywords" content="Nicolï¿½s, Valerga, portfolio, 3d, modelado, animaciï¿½n, caja, de, vulcano">
+    <meta name="description" content="La Caja de Vulcano es el portfolio personal de modelado y animaciï¿½n 3d de Nicolï¿½s Valerga">
+    <meta name="Author" content="La Caja de Vulcano - Nicolï¿½s Valerga">
+    <meta name="Language" content="Spanish">
+    <title>La caja de Vulcano</title>
+    <link href="css/estilos.css" rel="stylesheet" type="text/css" />
 
-<!-- FAVICON -->
-<link rel="shortcut icon" href="/favicon.ico">
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="/favicon.ico">
 
 </head>
 
@@ -25,58 +25,58 @@
 
 <!-- CONTENT -->
 <div id="cont_central">
-  <h1>Bienvenidos</h1>
+    <h1>Bienvenidos</h1>
     <p>Les doy la bienvenida a mi portfolio, mi nombre es Nicol&aacute;s Valerga, soy Dise&ntilde;ador Multimedial y mi pasi&oacute;n es el mundo del 3d. En La Caja de Vulcano voy a compartir con ustedes mis trabajos acerca del modelado y la animaci&oacute;n en tres dimensiones. Espero que lo disfruten !!</p>
-  <h1>Portfolio</h1>
-  <p>Aqu&iacute; se encuentran los accesos directos a mis trabajos.</p>
-    
+    <h1>Portfolio</h1>
+    <p>Aqu&iacute; se encuentran los accesos directos a mis trabajos.</p>
+
     <div class="cont_thumb_home">
         <div class="thumb_home">
-        	<a href="portfolio/bicicleta.php">
-            	<img src="images/bicicleta/thumb.png" alt="Bicicleta" width="155" height="150" border="0" onmouseover="showhint(this, 'Bicicleta-Modelado de producto')" />
+            <a href="portfolio/bicicleta.php">
+                <img src="images/bicicleta/thumb.png" alt="Bicicleta" width="155" height="150" border="0" onmouseover="showhint(this, 'Bicicleta-Modelado de producto')" />
             </a>
         </div>
-        
+
         <div class="thumb_home">
-        	<a href="portfolio/simon.php">
-            	<img src="images/simon/thumb.png" alt="Simon" width="155" height="150" border="0" onmouseover="showhint(this, 'Simón-Corto Animado')" />
+            <a href="portfolio/simon.php">
+                <img src="images/simon/thumb.png" alt="Simon" width="155" height="150" border="0" onmouseover="showhint(this, 'Simï¿½n-Corto Animado')" />
             </a>
         </div>
-        
+
         <div class="thumb_home">
-        	<a href="portfolio/tetris-dance.php">
-            	<img src="images/tetris/thumb.png" alt="Tetris Dance" width="155" height="150" border="0" onmouseover="showhint(this, 'Tetris-Motion Graphics')" />
+            <a href="portfolio/tetris-dance.php">
+                <img src="images/tetris/thumb.png" alt="Tetris Dance" width="155" height="150" border="0" onmouseover="showhint(this, 'Tetris-Motion Graphics')" />
             </a>
         </div>
-        
+
         <div class="thumb_home">
-        	<a href="portfolio/pokeboy.php">
-            	<img src="images/pokeboy/thumb.png" alt="Pokeboy Color" width="155" height="150" border="0" onmouseover="showhint(this, 'Pokeboy-Modelado de producto')" />
+            <a href="portfolio/pokeboy.php">
+                <img src="images/pokeboy/thumb.png" alt="Pokeboy Color" width="155" height="150" border="0" onmouseover="showhint(this, 'Pokeboy-Modelado de producto')" />
             </a>
         </div>
     </div>
-    
-  <div class="cont_thumb_home">
+
+    <div class="cont_thumb_home">
         <div class="thumb_home">
-        	<a href="portfolio/gundam-vulcancorp.php">
-            	<img src="images/gundam/thumb.png" alt="Gundam" width="155" height="150" border="0" onmouseover="showhint(this, 'Gundam-Modelado y texturizado')" />
+            <a href="portfolio/gundam-vulcancorp.php">
+                <img src="images/gundam/thumb.png" alt="Gundam" width="155" height="150" border="0" onmouseover="showhint(this, 'Gundam-Modelado y texturizado')" />
             </a>
         </div>
-        
+
         <div class="thumb_home">
-        	<a href="portfolio/palermo-low-poly.php">
-            	<img src="images/palermo/thumb.png" alt="Palermo" width="155" height="150" border="0" onmouseover="showhint(this, 'Palermo-Modelado low poly')" />
+            <a href="portfolio/palermo-low-poly.php">
+                <img src="images/palermo/thumb.png" alt="Palermo" width="155" height="150" border="0" onmouseover="showhint(this, 'Palermo-Modelado low poly')" />
             </a>
         </div>
-        
+
         <div class="thumb_home">
-        	<a href="portfolio/enano-guerrero-albondigan.php">
-            	<img src="images/albondigan/thumb.png" alt="Albondigan" width="155" height="150" border="0" onmouseover="showhint(this, 'Albondigan-Modelado de personaje')" />
+            <a href="portfolio/enano-guerrero-albondigan.php">
+                <img src="images/albondigan/thumb.png" alt="Albondigan" width="155" height="150" border="0" onmouseover="showhint(this, 'Albondigan-Modelado de personaje')" />
             </a>
         </div>
-        
+
         <div class="thumb_home">
-        	<img src="images/thumb_proxim.png" alt="Proximamente" width="155" height="150" border="0" />
+            <img src="images/thumb_proxim.png" alt="Proximamente" width="155" height="150" border="0" />
         </div>
     </div>
 

@@ -1,1 +1,13 @@
+### OSX ###
 .DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+gen/
+logs/
+target/
+bin/
