@@ -17,7 +17,6 @@
 <script type="text/javascript" src="../js/jquery1.4.2.js"></script>
 <script type="text/javascript" src="../js/jquery_cross_slide.js"></script>
 <script type="text/javascript" src="../js/marquesina.js"></script>
-<script type="text/javascript" src="../js/flowplayer-3.2.4.min.js"></script>
 
 <body>
 
@@ -31,16 +30,10 @@
   <BR/><BR/>
     <div id="cont_video">
     	<div id="marco_video">
-			<a href="../videos/pokeboy.flv" style="display:block;width:500px;height:400px;" id="player"></a>
-          <script>
-                            flowplayer("player", "../flow_player/flowplayer-3.2.5.swf",  { 
-                                clip: { 
-                                    autoPlay: false,  
-                                    autoBuffering: true // <- ahi va sin coma   
-                                } 
-                            });
-                        </script>
-       </div>
+        <video width="500" height="400" controls style="outline: none">
+          <source src="../videos/pokeboy.mp4" type="video/mp4">
+        </video>
+      </div>
        <div id="caps_video"><img src="../images/pokeboy/caps.png" width="180" height="410" border="0" /></div>
 	</div>
     <div class="clear"></div>
